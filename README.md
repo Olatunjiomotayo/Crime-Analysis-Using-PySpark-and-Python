@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Significance](#significance)
 -  [Datasets Used](#datasets-used)
--  [Features & Steps](#features-&-steps)
+-  [Features and Steps](#features-and-steps)
     - [Environment Setup](#environment-setup)
     - [Data Preprocessing](#data-preprocessing)
     - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
@@ -37,7 +37,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 2. Offense Codes Dataset: Provides descriptions and classifications for different types of offenses.
 
 
-## Features & Steps
+## Features and Steps
 
 ### Environment Setup: Data Preprocessing: Exploratory Data Analysis (EDA): Key Research Questions:
 
