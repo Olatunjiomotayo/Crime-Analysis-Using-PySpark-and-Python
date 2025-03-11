@@ -8,9 +8,15 @@
 -  [Features and Steps](#features-and-steps)
     - [Environment Setup](#environment-setup)
     - [Data Preprocessing](#data-preprocessing)
-    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
+    - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Research Questions](#key-research-questions)
-
+- [Metrics and Key Findings](Metrics-and-Key-Findings)
+      - [Most Common Offenses](Most-Common-Offenses)
+      - [Crime Trends Over Time](Crime-Trends-Over-Time)
+      - [High-Crime Areas](High-Crime-Areas)
+      - [Machine Learning and Predictive Insights](Machine-Learning-and-Predictive-Insights)
+- [Technologies Used Recommendations](Technologies-Used-Recommendations)
+- [Installation and Setup](Installation-and-Setup)
 
 ## Project Overview
 
@@ -53,7 +59,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Creating Spark DataFrames and temporary SQL tables for analysis.
 
-### Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis:
 
 Identifying the most common offenses.
 
@@ -63,63 +69,63 @@ Visualizing trends using Matplotlib and Seaborn.
 
 ## Key Research Questions:
 
-What is the most frequently committed offense?
+- What is the most frequently committed offense?
 
-How do crime rates fluctuate over time and across different locations?
+- How do crime rates fluctuate over time and across different locations?
 
-Which areas experience the highest crime rates?
+- Which areas experience the highest crime rates?
 
-Are there any patterns in crime occurrences that suggest preventive measures?
+- Are there any patterns in crime occurrences that suggest preventive measures?
 
-Metrics & Key Findings
+## Metrics and Key Findings - Most Common Offenses: Crime Trends Over Time: High-Crime Areas: Machine Learning & Predictive Insights: ## Technologies Used Recommendations ## Installation & Setup
 
-Most Common Offenses:
+### Most Common Offenses:
 
-Theft, violence, and public order offenses are the most prevalent.
+- Theft, violence, and public order offenses are the most prevalent.
 
-Fraud-related crimes have increased significantly in recent years.
+- Fraud-related crimes have increased significantly in recent years.
 
-Crime Trends Over Time:
+### Crime Trends Over Time:
 
-Crime rates show seasonal variations, with peaks in certain financial quarters.
+- Crime rates show seasonal variations, with peaks in certain financial quarters.
 
-Violent crimes tend to spike in specific months, suggesting possible external influences (e.g., holidays, economic downturns).
+- Violent crimes tend to spike in specific months, suggesting possible external influences (e.g., holidays, economic downturns).
 
-High-Crime Areas:
+### High-Crime Areas:
 
-Certain metropolitan areas exhibit consistently high crime rates.
+- Certain metropolitan areas exhibit consistently high crime rates.
 
-Regional disparities exist in crime occurrences, necessitating tailored policy interventions.
+- Regional disparities exist in crime occurrences, necessitating tailored policy interventions.
 
-Machine Learning & Predictive Insights:
+### Machine Learning and Predictive Insights:
 
 A Linear Regression model was used to predict future crime counts.
 
 Predictive analytics suggest increasing trends in certain crime categories, highlighting areas for proactive policing.
 
-Technologies Used
+## Technologies Used
 
-Apache Spark: For large-scale distributed data processing.
+- Apache Spark: For large-scale distributed data processing.
 
-Python: Using Pandas, PySpark, Matplotlib, and Seaborn for analysis and visualization.
+- Python: Using Pandas, PySpark, Matplotlib, and Seaborn for analysis and visualization.
 
-SQL Queries: For data aggregation, filtering, and trend analysis.
+- SQL Queries: For data aggregation, filtering, and trend analysis.
 
-Machine Learning (PySpark MLlib): Predictive modeling to anticipate future crime trends.
+- Machine Learning (PySpark MLlib): Predictive modeling to anticipate future crime trends.
 
-Recommendations
+## Recommendations
 
-Resource Allocation: Deploy more law enforcement personnel in high-crime areas based on identified trends.
+- Resource Allocation: Deploy more law enforcement personnel in high-crime areas based on identified trends.
 
-Public Awareness Campaigns: Educate citizens on crime-prone areas and preventive measures.
+- Public Awareness Campaigns: Educate citizens on crime-prone areas and preventive measures.
 
-Predictive Policing: Use data insights to anticipate and prevent future crimes.
+- Predictive Policing: Use data insights to anticipate and prevent future crimes.
 
-Policy Implementation: Governments can use the findings to introduce policies that address high-risk crime categories.
+- Policy Implementation: Governments can use the findings to introduce policies that address high-risk crime categories.
 
-Further Research: Conduct deeper analysis by incorporating socioeconomic and demographic factors to understand root causes.
+- Further Research: Conduct deeper analysis by incorporating socioeconomic and demographic factors to understand root causes.
 
-Installation & Setup
+## Installation and Setup
 
 Clone the repository:
 
