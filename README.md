@@ -49,6 +49,9 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Installation of Java, Apache Spark, and necessary Python libraries.
 
+  ![Screenshot 2025-03-11 155329](https://github.com/user-attachments/assets/11fcf5b9-50e0-4f14-a1dd-4d83c42c3625)
+
+
 - Configuration of SparkSession for distributed data processing.
 
 ### Data Preprocessing
