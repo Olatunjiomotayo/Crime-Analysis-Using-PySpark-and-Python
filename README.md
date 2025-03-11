@@ -16,7 +16,9 @@
     - [High-Crime Areas](#high-crime-areas)
     - [Machine Learning and Predictive Insights](#machine-learning-and-predictive-insights)
 - [Technologies Used Recommendations](#technologies-used-recommendations)
-- [Installation and Setup](#installation-and-setup)
+- [Recommendations](#recommendations)
+- [Insights and Findings](#insights-and-findings)
+
 
 ## Project Overview
 
@@ -51,60 +53,50 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
   ![Screenshot 2025-03-11 155329](https://github.com/user-attachments/assets/11fcf5b9-50e0-4f14-a1dd-4d83c42c3625)
 
+![Screenshot 2025-03-11 155516](https://github.com/user-attachments/assets/1627f91d-3644-48c3-8077-17411ceeb552)
 
 - Configuration of SparkSession for distributed data processing.
 
+![Screenshot 2025-03-11 155532](https://github.com/user-attachments/assets/e1f3529b-6bb2-4d3d-a605-b9ed1c57b76b)
+
 ### Data Preprocessing
 
-- Merging multiple data sources into a unified dataset.
-
+- Cleaning the dataset
+- Renaming & Standardising the data
 - Handling missing/null values to ensure data integrity.
-
+- Merging multiple data sources into a unified dataset.
 - Creating Spark DataFrames and temporary SQL tables for analysis.
+
+![Screenshot 2025-03-11 160941](https://github.com/user-attachments/assets/6dd5d204-7c3d-40d9-af00-d7e6330b2814)
+
+![Screenshot 2025-03-11 155924](https://github.com/user-attachments/assets/6a804a7e-1f5a-4d5d-a126-63d51075c7d2)
+
+![Screenshot 2025-03-11 160223](https://github.com/user-attachments/assets/0a5c1a14-2d64-4d1b-bd36-fd35f5d488af)
+
+![Screenshot 2025-03-11 160258](https://github.com/user-attachments/assets/9fe28ca7-9e2a-4fde-9df3-a9394407284c)
 
 ### Exploratory Data Analysis
 
-Identifying the most common offenses.
+- Identifying the most common offenses.
 
-Aggregating crime counts across various dimensions (time, location, type of crime).
+- Aggregating crime counts across various dimensions (time, location, type of crime).
 
-Visualizing trends using Matplotlib and Seaborn.
+- Visualizing trends using Matplotlib and Seaborn.
 
 ## Key Research Questions
 
-- What is the most frequently committed offense?
+1. What is the most frequently committed offense?
 
-- How do crime rates fluctuate over time and across different locations?
+![Screenshot 2025-03-11 160420](https://github.com/user-attachments/assets/18936899-ebdc-4b25-93a7-362acd34ecbb)
 
-- Which areas experience the highest crime rates?
+2. Which law enforcement agencies (Force Names) have the highest number of recorded offences?
 
-- Are there any patterns in crime occurrences that suggest preventive measures?
+![Screenshot 2025-03-11 161245](https://github.com/user-attachments/assets/fa9a61c2-e8c6-4f11-8648-2c639c977c7f)
 
-## Metrics and Key Findings
+3. How does the distribution of offences vary across different financial quarters?
 
-### Most Common Offenses
+![Screenshot 2025-03-11 161400](https://github.com/user-attachments/assets/2eb30b4a-3325-4946-b705-3de8dfab10cd)
 
-- Theft, violence, and public order offenses are the most prevalent.
-
-- Fraud-related crimes have increased significantly in recent years.
-
-### Crime Trends Over Time
-
-- Crime rates show seasonal variations, with peaks in certain financial quarters.
-
-- Violent crimes tend to spike in specific months, suggesting possible external influences (e.g., holidays, economic downturns).
-
-### High-Crime Areas
-
-- Certain metropolitan areas exhibit consistently high crime rates.
-
-- Regional disparities exist in crime occurrences, necessitating tailored policy interventions.
-
-### Machine Learning and Predictive Insights:
-
-A Linear Regression model was used to predict future crime counts.
-
-Predictive analytics suggest increasing trends in certain crime categories, highlighting areas for proactive policing.
 
 ## Technologies Used
 
@@ -128,36 +120,15 @@ Predictive analytics suggest increasing trends in certain crime categories, high
 
 - Further Research: Conduct deeper analysis by incorporating socioeconomic and demographic factors to understand root causes.
 
-## Installation and Setup
 
-Clone the repository:
+## Insights and Findings
 
-git clone https://github.com/your-username/crime-analysis.git
-cd crime-analysis
+- The dataset highlights specific high-frequency offenses, enabling better resource distribution.
 
-Install dependencies:
+- Crime occurrences show seasonal and geographical trends, which can aid in crime prevention strategies.
 
-pip install pyspark pandas scikit-learn seaborn matplotlib
+- Data visualization provides insights into crime distributions, helping in policymaking and law enforcement strategies.
 
-Run the Jupyter Notebook:
+![image](https://github.com/user-attachments/assets/b881affb-393b-48e7-a17a-b450304497d9)
 
-jupyter notebook
-
-Insights & Findings
-
-The dataset highlights specific high-frequency offenses, enabling better resource distribution.
-
-Crime occurrences show seasonal and geographical trends, which can aid in crime prevention strategies.
-
-Data visualization provides insights into crime distributions, helping in policymaking and law enforcement strategies.
-
-Predictive modeling provides future crime insights, assisting in strategic law enforcement deployment.
-
-Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions related to additional datasets, predictive models, and enhanced visualizations are highly encouraged.
-
-License
-
-This project is licensed under the MIT License.
-
+![image](https://github.com/user-attachments/assets/4012c49f-c469-4659-aefc-8084dd09c7bb)
