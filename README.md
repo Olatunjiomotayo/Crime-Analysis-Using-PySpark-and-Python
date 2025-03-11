@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-- [Project Overview](project-overview)
-- [Significance](significance)
--  [Datasets Used](datasets_used)
--  [Features & Steps](features_&_steps)
-    - [Environment Setup](environment_setup)
-    - [Data Preprocessing](data_preprocessing)
-    - [Exploratory Data Analysis (EDA)](exploratory_data_analysis_(EDA))
-- [Key Research Questions](key_research_questions)
+- [Project Overview](#project-overview)
+- [Significance](#significance)
+-  [Datasets Used](#datasets-used)
+-  [Features & Steps](#features-&-steps)
+    - [Environment Setup](#environment-setup)
+    - [Data Preprocessing](#data-preprocessing)
+    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
+- [Key Research Questions](#key-research-questions)
 
 
 ## Project Overview
