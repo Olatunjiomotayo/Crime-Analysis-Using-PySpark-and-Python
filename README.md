@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Significance](#significance)
 - [Datasets Used](#datasets-used)
--  [Features and Steps](#features-and-steps)
+- [Features and Steps](#features-and-steps)
     - [Environment Setup](#environment-setup)
     - [Data Preprocessing](#data-preprocessing)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -51,7 +51,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Configuration of SparkSession for distributed data processing.
 
-### Data Preprocessing:
+### Data Preprocessing
 
 - Merging multiple data sources into a unified dataset.
 
@@ -59,7 +59,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Creating Spark DataFrames and temporary SQL tables for analysis.
 
-### Exploratory Data Analysis:
+### Exploratory Data Analysis
 
 Identifying the most common offenses.
 
@@ -67,7 +67,7 @@ Aggregating crime counts across various dimensions (time, location, type of crim
 
 Visualizing trends using Matplotlib and Seaborn.
 
-## Key Research Questions:
+## Key Research Questions
 
 - What is the most frequently committed offense?
 
@@ -79,7 +79,7 @@ Visualizing trends using Matplotlib and Seaborn.
 
 ## Metrics and Key Findings
 
-### Most Common Offenses:
+### Most Common Offenses
 
 - Theft, violence, and public order offenses are the most prevalent.
 
