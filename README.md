@@ -51,7 +51,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Installation of Java, Apache Spark, and necessary Python libraries.
 
-  ![Screenshot 2025-03-11 155329](https://github.com/user-attachments/assets/11fcf5b9-50e0-4f14-a1dd-4d83c42c3625)
+![Screenshot 2025-03-11 155329](https://github.com/user-attachments/assets/11fcf5b9-50e0-4f14-a1dd-4d83c42c3625)
 
 ![Screenshot 2025-03-11 155516](https://github.com/user-attachments/assets/1627f91d-3644-48c3-8077-17411ceeb552)
 
@@ -85,15 +85,15 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 ## Key Research Questions
 
-1. What is the most frequently committed offense?
+### 1. What is the most frequently committed offense?
 
 ![Screenshot 2025-03-11 160420](https://github.com/user-attachments/assets/18936899-ebdc-4b25-93a7-362acd34ecbb)
 
-2. Which law enforcement agencies (Force Names) have the highest number of recorded offences?
+### 2. Which law enforcement agencies (Force Names) have the highest number of recorded offences?
 
 ![Screenshot 2025-03-11 161245](https://github.com/user-attachments/assets/fa9a61c2-e8c6-4f11-8648-2c639c977c7f)
 
-3. How does the distribution of offences vary across different financial quarters?
+### 3. How does the distribution of offences vary across different financial quarters?
 
 ![Screenshot 2025-03-11 161400](https://github.com/user-attachments/assets/2eb30b4a-3325-4946-b705-3de8dfab10cd)
 
