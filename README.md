@@ -77,7 +77,7 @@ Visualizing trends using Matplotlib and Seaborn.
 
 - Are there any patterns in crime occurrences that suggest preventive measures?
 
-## Metrics and Key Findings - Most Common Offenses: Crime Trends Over Time: High-Crime Areas: Machine Learning & Predictive Insights: ## Technologies Used Recommendations ## Installation & Setup
+## Metrics and Key Findings
 
 ### Most Common Offenses:
 
