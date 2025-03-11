@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Significance](#significance)
--  [Datasets Used](#datasets-used)
+- [Datasets Used](#datasets-used)
 -  [Features and Steps](#features-and-steps)
     - [Environment Setup](#environment-setup)
     - [Data Preprocessing](#data-preprocessing)
