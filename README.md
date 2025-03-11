@@ -10,13 +10,13 @@
     - [Data Preprocessing](#data-preprocessing)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Research Questions](#key-research-questions)
-- [Metrics and Key Findings](Metrics-and-Key-Findings)
-    - [Most Common Offenses](Most-Common-Offenses)
-    - [Crime Trends Over Time](Crime-Trends-Over-Time)
-    - [High-Crime Areas](High-Crime-Areas)
-    - [Machine Learning and Predictive Insights](Machine-Learning-and-Predictive-Insights)
-- [Technologies Used Recommendations](Technologies-Used-Recommendations)
-- [Installation and Setup](Installation-and-Setup)
+- [Metrics and Key Findings](metrics-and-key-findings)
+    - [Most Common Offenses](most-common-offenses)
+    - [Crime Trends Over Time](crime-trends-over-time)
+    - [High-Crime Areas](high-crime-areas)
+    - [Machine Learning and Predictive Insights](machine-learning-and-predictive-insights)
+- [Technologies Used Recommendations](technologies-used-recommendations)
+- [Installation and Setup](installation-and-setup)
 
 ## Project Overview
 
