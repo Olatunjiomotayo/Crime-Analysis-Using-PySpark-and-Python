@@ -10,13 +10,13 @@
     - [Data Preprocessing](#data-preprocessing)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Research Questions](#key-research-questions)
-- [Metrics and Key Findings](metrics-and-key-findings)
-    - [Most Common Offenses](most-common-offenses)
-    - [Crime Trends Over Time](crime-trends-over-time)
-    - [High-Crime Areas](high-crime-areas)
-    - [Machine Learning and Predictive Insights](machine-learning-and-predictive-insights)
-- [Technologies Used Recommendations](technologies-used-recommendations)
-- [Installation and Setup](installation-and-setup)
+- [Metrics and Key Findings](#metrics-and-key-findings)
+    - [Most Common Offenses](#most-common-offenses)
+    - [Crime Trends Over Time](#crime-trends-over-time)
+    - [High-Crime Areas](#high-crime-areas)
+    - [Machine Learning and Predictive Insights](#machine-learning-and-predictive-insights)
+- [Technologies Used Recommendations](#technologies-used-recommendations)
+- [Installation and Setup](#installation-and-setup)
 
 ## Project Overview
 
@@ -45,7 +45,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 ## Features and Steps
 
-### Environment Setup: Data Preprocessing: Exploratory Data Analysis (EDA): Key Research Questions:
+### Environment Setup:
 
 - Installation of Java, Apache Spark, and necessary Python libraries.
 
@@ -85,13 +85,13 @@ Visualizing trends using Matplotlib and Seaborn.
 
 - Fraud-related crimes have increased significantly in recent years.
 
-### Crime Trends Over Time:
+### Crime Trends Over Time
 
 - Crime rates show seasonal variations, with peaks in certain financial quarters.
 
 - Violent crimes tend to spike in specific months, suggesting possible external influences (e.g., holidays, economic downturns).
 
-### High-Crime Areas:
+### High-Crime Areas
 
 - Certain metropolitan areas exhibit consistently high crime rates.
 
