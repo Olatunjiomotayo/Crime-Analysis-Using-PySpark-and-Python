@@ -78,7 +78,7 @@ This project performs crime data analysis using Apache Spark and Python. The dat
 
 - Visualizing trends using Matplotlib and Seaborn.
 
-## Key Research Questions
+## Key Research Questions:
 
 ### 1. What is the most frequently committed offense?
 
